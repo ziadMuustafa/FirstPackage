@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <PackageId>NumberSystemConverter </PackageId>
+    <Title>User friendly package to ease convert between different number systems</Title>
+    <Version>1.0.0</Version>
+    <Authors>Ziad Mustafa</Authors>
+    <Company>Ziad Mustafa</Company>
+    <Product>NumericSystemConverter</Product>
+    <PackAsTool>False</PackAsTool>
+    <NeutralLanguage>en-001</NeutralLanguage>
+    <AssemblyVersion>1.0.0</AssemblyVersion>
+    <FileVersion>1.0.0</FileVersion>
+    <EnforceCodeStyleInBuild>True</EnforceCodeStyleInBuild>
+  </PropertyGroup>
+
+</Project>
